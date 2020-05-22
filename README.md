@@ -1,1 +1,1 @@
-## config center repo
+## Spring Cloud Config demo repo
